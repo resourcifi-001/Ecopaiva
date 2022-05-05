@@ -1974,13 +1974,14 @@ a#logo {
     line-height: 70px;
     font-size: 0.8rem;
 }
-.img-full {
-    width: 92%;
-    vertical-align: bottom;
-    position: absolute;
-    bottom: 0;
-    right: 20px;
-}
+    .img-full {
+        width: 92%;
+        vertical-align: bottom;
+        position: absolute;
+        bottom: 0;
+        right: 20px;
+        height: 100%;
+    }
 }
 @media (min-width: 1600px){
 .fp-scrollable {
